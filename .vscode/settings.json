@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "params.h": "c",
+        "gprintf.h": "c"
+    }
+}
